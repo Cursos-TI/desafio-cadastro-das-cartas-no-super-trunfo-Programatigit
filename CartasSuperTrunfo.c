@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <string.h>
 
 // Desafio Super Trunfo - Países
 // Tema 2 - Comparação das Cartas
